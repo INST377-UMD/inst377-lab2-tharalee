@@ -3,4 +3,4 @@
 
 # Name: Thara Le
 
-# Comments: none
+# Comments: I intially submitted this in inst377-gitsample-tharalee. Sorry!
